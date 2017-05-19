@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.at(${1:collection}${2:, [index]})
 ]]></content>
-  <tabTrigger>_at</tabTrigger>
+  <tabTrigger>ld-at()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates an array of elements from the specified indexes, or keys, of the collection.</description>
+  <description></description>
 </snippet>

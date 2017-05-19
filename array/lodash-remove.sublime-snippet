@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.remove(${1:array}${2:, [callback=1]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_remove</tabTrigger>
+  <tabTrigger>ld-arr-remove()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Removes all elements from an array that the callback returns truey for and returns an array of removed elements.</description>
+  <description></description>
 </snippet>

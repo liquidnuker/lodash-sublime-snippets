@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.difference(${1:array}, ${2:array})
 ]]></content>
-  <tabTrigger>_difference</tabTrigger>
+  <tabTrigger>ld-arr-difference()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates array excluding all values of provided arrays.</description>
+  <description></description>
 </snippet>

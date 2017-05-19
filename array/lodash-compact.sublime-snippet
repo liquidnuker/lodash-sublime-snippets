@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.compact(${1:array})
 ]]></content>
-  <tabTrigger>ld-compact()</tabTrigger>
+  <tabTrigger>ld-arr-compact()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
   <description></description>
 </snippet>

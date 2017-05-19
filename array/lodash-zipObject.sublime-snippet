@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.zipObject(${1:keys}${2:, [values=[]]})
 ]]></content>
-  <tabTrigger>_zipObject</tabTrigger>
+  <tabTrigger>ld-arr-zipObject</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates an object composed from arrays of keys and values.</description>
+  <description>creates obj from arrays of keys and val</description>
 </snippet>

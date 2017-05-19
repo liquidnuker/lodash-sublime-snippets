@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.intersection(${1:[array]})
 ]]></content>
-  <tabTrigger>_intersection</tabTrigger>
+  <tabTrigger>ld-arr-intersection()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates an array of unique values present in all provided arrays.</description>
+  <description>creates arr of unique val present in all provided arr</description>
 </snippet>

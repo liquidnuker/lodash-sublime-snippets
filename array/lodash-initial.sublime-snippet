@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.initial(${1:array}${2:, [callback=1]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_initial</tabTrigger>
+  <tabTrigger>ld-arr-initial()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Gets all but the last element or last n elements of an array.</description>
+  <description>gets all but last el of array</description>
 </snippet>

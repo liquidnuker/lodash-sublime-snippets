@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.pull(${1:array}${2:, [value]})
 ]]></content>
-  <tabTrigger>_pull</tabTrigger>
+  <tabTrigger>ld-arr-pull()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Removes all provided values from the given array.</description>
+  <description>removes all provided val from array</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.size(${1:collection})
 ]]></content>
-  <tabTrigger>_size</tabTrigger>
+  <tabTrigger>ld-coll-size()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Gets the size of the collection by returning collection.length.</description>
+  <description></description>
 </snippet>

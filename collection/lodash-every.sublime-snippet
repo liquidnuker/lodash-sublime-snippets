@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.every(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_every</tabTrigger>
+  <tabTrigger>ld-coll-every()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Checks if the given callback returns truey value for all elements of a collection.</description>
+  <description></description>
 </snippet>

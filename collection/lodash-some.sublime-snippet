@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.some(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_some</tabTrigger>
+  <tabTrigger>ld-coll-some()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Checks if the callback returns a truey value for any element of a collection. The function returns as soon as it finds a passing value and does not iterate over the entire collection.</description>
+  <description></description>
 </snippet>

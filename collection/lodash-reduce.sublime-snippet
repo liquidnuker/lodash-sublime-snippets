@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.reduce(${1:collection}${2:, [callback=identity]}${3:, [accumulator]}${4:, [thisArg]})
 ]]></content>
-  <tabTrigger>_reduce</tabTrigger>
+  <tabTrigger>ld-coll-reduce()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Reduces a collection to a value which is the accumulated result of running each element in the collection through the callback.</description>
+  <description></description>
 </snippet>

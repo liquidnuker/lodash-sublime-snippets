@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.shuffle(${1:collection})
 ]]></content>
-  <tabTrigger>_shuffle</tabTrigger>
+  <tabTrigger>ld-coll-shuffle()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates an array of shuffled values, using a version of the Fisher-Yates shuffle.</description>
+  <description></description>
 </snippet>

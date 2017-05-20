@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.sample(${1:collection}${2:, [n]})
 ]]></content>
-  <tabTrigger>_sample</tabTrigger>
+  <tabTrigger>ld-coll-sample()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Retrieves a random element or n random elements from a collection.</description>
+  <description></description>
 </snippet>

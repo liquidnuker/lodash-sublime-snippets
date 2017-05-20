@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.groupBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_groupBy</tabTrigger>
+  <tabTrigger>ld-coll-groupBy()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates an object composed of keys generated from the results of running each element of a collection through the callback.</description>
+  <description></description>
 </snippet>

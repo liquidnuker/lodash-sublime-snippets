@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.after(${1:n}, ${2:func})
 ]]></content>
-  <tabTrigger>ld-after()</tabTrigger>
+  <tabTrigger>ld-func-after()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>creates function that executes func after being called n times.</description>
+  <description></description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.bind(${1:func}${2:, [thisArg]}${3:, [arg]})
 ]]></content>
-  <tabTrigger>ld-bind()</tabTrigger>
+  <tabTrigger>ld-func-bind()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
   <description></description>
 </snippet>

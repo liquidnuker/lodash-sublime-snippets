@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.debounce(${1:func}, ${2:wait}${3:, [options]}${4:, [options.maxWait]})
 ]]></content>
-  <tabTrigger>_debounce</tabTrigger>
+  <tabTrigger>ld-func-debounce()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates function that delays execution of func wait milliseconds.</description>
+  <description></description>
 </snippet>

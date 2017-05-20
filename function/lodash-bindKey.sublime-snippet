@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.bindKey(${1:object}, ${2:key}${3:, [arg]})
 ]]></content>
-  <tabTrigger>ld-bindKey()</tabTrigger>
+  <tabTrigger>ld-func-bindKey()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
   <description></description>
 </snippet>

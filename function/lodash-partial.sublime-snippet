@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.partial(${1:func}${2:, [arg]})
 ]]></content>
-  <tabTrigger>_partial</tabTrigger>
+  <tabTrigger>ld-func-partial()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates a function that, when called, invokes func with any additional partial arguments prepended to those provided to the new function. </description>
+  <description></description>
 </snippet>

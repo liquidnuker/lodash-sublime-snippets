@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.memoize(${1:func}${2:, [resolver]}})
 ]]></content>
-  <tabTrigger>_memoize</tabTrigger>
+  <tabTrigger>ld-func-memoize()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates a function that memoizes the result of func.</description>
+  <description></description>
 </snippet>

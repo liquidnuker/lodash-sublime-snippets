@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.once(${1:func})
 ]]></content>
-  <tabTrigger>_once</tabTrigger>
+  <tabTrigger>ld-func-once()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates a function that is restricted to execute func once.</description>
+  <description></description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.escape(${1:string})
+]]></content>
+  <tabTrigger>ld-str-escape()</tabTrigger>
+  <scope>source.js.embedded.html, source.js</scope>
+  <description></description>
+</snippet>

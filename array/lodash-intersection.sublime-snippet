@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.intersection(${1:[array]})
+_.intersection(${1:arr1[2, 1]}, ${2:arr2[2, 3]}) ${3:// => [2]}
 ]]></content>
   <tabTrigger>ld-arr-intersection()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>creates arr of unique val present in all provided arr</description>
+  <description>ret arr of same value in all arrays</description>
 </snippet>

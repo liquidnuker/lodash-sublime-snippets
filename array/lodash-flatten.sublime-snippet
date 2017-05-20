@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.flatten(${1:array}${2:,[isShallow=false]}${3:,[callback=identity]}${4:,[thisArg]})
+_.flatten(${1:[[arr[[]]]]})
 ]]></content>
   <tabTrigger>ld-arr-flatten()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>flatten a nested array</description>
+  <description>flattens nested arr single level deep</description>
 </snippet>

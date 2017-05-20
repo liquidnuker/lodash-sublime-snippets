@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.chain(${1:value})
 ]]></content>
-  <tabTrigger>ld-chain()</tabTrigger>
+  <tabTrigger>ld-seq-chain()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
   <description></description>
 </snippet>

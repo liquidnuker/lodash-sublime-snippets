@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.tap(${1:value}, ${2:interceptor})
 ]]></content>
-  <tabTrigger>_tap</tabTrigger>
+  <tabTrigger>ld-seq-tap</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Invokes interceptor with the value as the first argument and then returns value.</description>
+  <description></description>
 </snippet>

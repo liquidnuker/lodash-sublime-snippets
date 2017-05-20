@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.functions(${1:object})
 ]]></content>
-  <tabTrigger>_functions</tabTrigger>
+  <tabTrigger>ld-obj-functions()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates a sorted array of property names of all enumerable properties, own and inherited, of object that have function values.</description>
+  <description></description>
 </snippet>

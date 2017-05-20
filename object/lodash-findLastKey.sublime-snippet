@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.findLastKey(${1:object}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_findLastKey</tabTrigger>
+  <tabTrigger>ld-obj-findLastKey()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Returns the key of the first element that passes the callback check from right to left.</description>
+  <description></description>
 </snippet>

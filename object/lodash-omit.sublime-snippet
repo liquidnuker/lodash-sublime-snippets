@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.omit(${1:object}${2:, [callback]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_omit</tabTrigger>
+  <tabTrigger>ld-obj-omit()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Creates a shallow clone of object excluding the specified properties.</description>
+  <description></description>
 </snippet>

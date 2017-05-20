@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.result(${1:object}, ${2:property})
 ]]></content>
-  <tabTrigger>_result</tabTrigger>
+  <tabTrigger>ld-obj-result()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Resolves the value of property on object.</description>
+  <description></description>
 </snippet>

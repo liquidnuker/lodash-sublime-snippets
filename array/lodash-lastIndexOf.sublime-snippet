@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.lastIndexOf(${1:array}, ${2:value}${3:, [fromIndex=array.length-1]})
+_.lastIndexOf(${1:[arr]}, ${2:valueToFind}, ${3:fromIndex:2(optional)})
 ]]></content>
   <tabTrigger>ld-arr-lastIndexOf()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>gets index which last occurr val found</description>
+  <description>ret index of val found, else -1 | right to left</description>
 </snippet>

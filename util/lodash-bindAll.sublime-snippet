@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.bindAll(${1:object}${2:, [methodName]})
 ]]></content>
-  <tabTrigger>ld-bindAll()</tabTrigger>
+  <tabTrigger>ld-util-bindAll()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
   <description></description>
 </snippet>

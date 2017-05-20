@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.noConflict()
+]]></content>
+  <tabTrigger>ld-util-noConflict()</tabTrigger>
+  <scope>source.js.embedded.html, source.js</scope>
+  <description></description>
+</snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.runInContext(${1:[context=root]})
 ]]></content>
-  <tabTrigger>_runInContext</tabTrigger>
+  <tabTrigger>ld-util-runInContext()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Create a new lodash function using the given context object.</description>
+  <description></description>
 </snippet>

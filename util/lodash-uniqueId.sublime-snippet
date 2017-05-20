@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.uniqueId(${1:[prefix]})
 ]]></content>
-  <tabTrigger>_uniqueId</tabTrigger>
+  <tabTrigger>ld-util-uniqueId()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>Generates a unique ID.</description>
+  <description>generates unique ID</description>
 </snippet>

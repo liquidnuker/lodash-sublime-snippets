@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-_.noConflict()
-]]></content>
-  <tabTrigger>_noConflict</tabTrigger>
-  <scope>source.js.embedded.html, source.js</scope>
-  <description>Reverts the '_' variable to its previous value and returns a reference to the lodash function.</description>
-</snippet>

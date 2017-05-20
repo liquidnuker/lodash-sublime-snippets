@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.range(${1:[start=0]}${2:, end}${3:, [step=1]})
+]]></content>
+  <tabTrigger>ld-util-range()</tabTrigger>
+  <scope>source.js.embedded.html, source.js</scope>
+  <description></description>
+</snippet>

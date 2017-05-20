@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.compact(${1:array})
+_.compact(${1:arr[0, 1, false, 2, '', 3]})
 ]]></content>
   <tabTrigger>ld-arr-compact()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>creates arr w/ all false val removed</description>
 </snippet>

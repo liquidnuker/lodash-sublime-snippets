@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.difference(${1:array}, ${2:array})
+_.difference(${1:arr1[2, 1]}, ${2:arr2[2, 3]}) ${3:// => 1}
 ]]></content>
   <tabTrigger>ld-arr-difference()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>ret new arr of values not in other arr</description>
 </snippet>

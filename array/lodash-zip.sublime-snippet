@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.zip(${1:[array]})
+_.zip(${1:['group1-a', 'group2-b']}, ${2:[group1-1, group2-2]}, ${3:[group1-true, group2-false]})
 ]]></content>
   <tabTrigger>ld-arr-zip()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>ret new array of grouped elements</description>
 </snippet>

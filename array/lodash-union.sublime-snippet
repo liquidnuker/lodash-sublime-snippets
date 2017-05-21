@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.union(${1:[array]})
+_.union(${1:[2]}, ${2:[1, 2]}) ${3:// => [2, 1]}
 ]]></content>
   <tabTrigger>ld-arr-union()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>creates array of unique values</description>
+  <description>ret new arr of combined unique values in order</description>
 </snippet>

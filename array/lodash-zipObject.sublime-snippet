@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.zipObject(${1:keys}${2:, [values=[]]})
+_.zipObject(${1:['prop1-a', 'prop2-b']}, ${2:[val1-1, val2-2]})
 ]]></content>
-  <tabTrigger>ld-arr-zipObject</tabTrigger>
+  <tabTrigger>ld-arr-zipObject()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>creates obj from arrays of keys and val</description>
+  <description>ret new object from two arrays keyval</description>
 </snippet>

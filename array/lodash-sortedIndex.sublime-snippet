@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.sortedIndex(${1:array}, ${2:value}${3:, [callback=identity]}${4:, [thisArg]})
+_.sortedIndex(${1:arr[30, 50]}, ${2:valToInsert:40})
 ]]></content>
   <tabTrigger>ld-arr-sortedIndex()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>ret index which the val should be inserted</description>
 </snippet>

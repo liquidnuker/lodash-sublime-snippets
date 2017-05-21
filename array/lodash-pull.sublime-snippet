@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.pull(${1:array}${2:, [value]})
+_.pull(${1:arr}, ${2:'a', 'b'});
 ]]></content>
   <tabTrigger>ld-arr-pull()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description>removes all provided val from array</description>
+  <description>removes all given val from array</description>
 </snippet>

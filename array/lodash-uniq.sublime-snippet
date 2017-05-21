@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.uniq(${1:array}${2:, [isSorted=false]}${3:, [callback=identity]}${4:, [thisArg]})
+_.uniq(${1:[2, 1, 2]}) ${2:// => [2, 1]}
 ]]></content>
   <tabTrigger>ld-arr-uniq()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>

@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.min(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
+_.min(${1:[arr]})
 ]]></content>
   <tabTrigger>ld-math-min()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>computes min value of array</description>
 </snippet>

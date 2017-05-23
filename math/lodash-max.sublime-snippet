@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.max(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
+_.max(${1:[arr]})
 ]]></content>
   <tabTrigger>ld-math-max()</tabTrigger>
   <scope>source.js.embedded.html, source.js</scope>
-  <description></description>
+  <description>computes max value of array</description>
 </snippet>
